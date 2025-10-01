@@ -19,6 +19,6 @@ Homepage: https://www.deepin.org
 
 Package: deepin-deepinid-client
 Architecture: any
-Depends: ${shlibs:Depends}, ${misc:Depends}, libdframeworkdbus2, dcc-deepinid-plugin
+Depends: ${shlibs:Depends}, ${misc:Depends}, libdframeworkdbus2
 Description: client to login deepin sync account
  Deepin user can login with DeepinID oauth
